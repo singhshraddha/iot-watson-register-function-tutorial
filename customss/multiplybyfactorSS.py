@@ -16,7 +16,7 @@ logger = logging.getLogger(__name__)
 
 PACKAGE_URL = 'git+https://github.com/<path_to_repository>@starter_package'
 
-class MultiplyByFactor<YourInitials>(BaseTransformer):
+class MultiplyByFactorSS(BaseTransformer):
 
     def __init__(self, input_items, factor, output_items):
 
