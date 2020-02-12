@@ -14,7 +14,7 @@ logger = logging.getLogger(__name__)
 # Specify the URL to your package here.
 # This URL must be accessible via pip install
 
-PACKAGE_URL = 'git+https://github.com/https://github.com/singhshraddha/iot-watson-register-function-tutorial@starter_package'
+PACKAGE_URL = 'git+https://github.com/singhshraddha/iot-watson-register-function-tutorial@starter_package'
 
 class MultiplyByFactorSS(BaseTransformer):
 
